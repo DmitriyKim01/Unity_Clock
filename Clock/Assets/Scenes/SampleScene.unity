@@ -1485,6 +1485,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 052b0455eaefc104a9f280bc13ba4b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hoursPivot: {fileID: 2062922}
+  minutePivot: {fileID: 1484382869}
+  secondPivot: {fileID: 820496339}
 --- !u!1 &1839086325
 GameObject:
   m_ObjectHideFlags: 0
