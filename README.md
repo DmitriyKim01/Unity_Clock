@@ -1,3 +1,3 @@
 # Description
 
-This is a small unity app, that implements a working clock object in the viewport
+Simple unity program that shows clock object and program a component to have it display the current time.
